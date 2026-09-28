@@ -1,0 +1,6 @@
+email,password_type,expected_result
+customertester@example.com,valid,success
+customertester@example.com,invalid,failure
+customertest1@example.com,invalid,failure
+customertest1@example.com,invalid,failure
+,invalid,failure
